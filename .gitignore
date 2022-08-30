@@ -19,7 +19,6 @@
 *.avi
 *.data
 *.json
-*.cfg
 !setup.cfg
 !cfg/yolov3*.cfg
 
@@ -265,3 +264,11 @@ fabric.properties
 
 /YOLOR_direct/dataset/images/train
 /YOLOR_direct/dataset/images/val
+/YOLOR_direct/cfg/yolor_csp.cfg
+/YOLOR_direct/cfg/yolor_csp_x.cfg
+/YOLOR_direct/cfg/yolor_p6.cfg
+/YOLOR_direct/cfg/yolov4_p7.cfg
+/YOLOR_direct/cfg/yolov4_p6.cfg
+/YOLOR_direct/cfg/yolov4_csp_x.cfg
+/YOLOR_direct/cfg/yolov4_csp.cfg
+/YOLOR_direct/cfg/yolor_w6.cfg
