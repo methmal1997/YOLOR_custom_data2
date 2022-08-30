@@ -262,6 +262,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-custom_data/
-/YOLOR_direct/dataset/
-/YOLOR_direct/dataset/
+
+/YOLOR_direct/dataset/images/train
+/YOLOR_direct/dataset/images/val
