@@ -272,3 +272,4 @@ fabric.properties
 /YOLOR_direct/cfg/yolov4_csp_x.cfg
 /YOLOR_direct/cfg/yolov4_csp.cfg
 /YOLOR_direct/cfg/yolor_w6.cfg
+/YOLOR_direct/runs/train/yolor_p619/events.out.tfevents.1661910994.ddserver13.5386.0
